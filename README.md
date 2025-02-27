@@ -16,5 +16,5 @@ Weak
 Very Weak
 ## Requirements
 Python 3.x
-example
+
 ![Screenshot (6)](https://github.com/user-attachments/assets/3507fadc-427d-42b5-843c-fbc9d6a8eb32)
